@@ -1,6 +1,6 @@
 {
-    "name": "Octo Organization Workflow",
-    "description": "Octo Organization CI starter workflow.",
+    "name": "pdotl Public Workflow",
+    "description": "pdotl Organization pubilc CI starter workflow.",
     "iconName": "example-icon",
     "categories": [
         "Go"
